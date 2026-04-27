@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import { useStore } from '../store';
 import { Coffee, Search, Utensils, GlassWater, TreePine, Mountain, History, Palette, ShoppingBag, Library, BookOpen, Store, Hammer } from 'lucide-react';
 
